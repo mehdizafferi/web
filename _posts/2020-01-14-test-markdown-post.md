@@ -16,15 +16,15 @@ title: My Markdown Post
 
 ## Lists
 
-Here's a list
+Favorite Foods
 
-- item 1
-- item 2
+- BBQ
+- Pasta
 
-And a numbered list:
+Favorite Drinks
 
-1. item 1
-1. item 2
+1. Redbull
+1. Water
 
 
 
