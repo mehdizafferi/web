@@ -16,7 +16,7 @@ title: My Markdown Post
 
 ## Lists
 
-Here's a list:
+Here's a list
 
 - item 1
 - item 2
