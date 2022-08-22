@@ -13,6 +13,17 @@
   
     
         ,"post1": {
+            "title": "My Jupyter Notebook",
+            "content": "print(&#39;hello world&#39;) . hello world .",
+            "url": "https://mehdizafferi.github.io/web/2020/02/20/test-copy.html",
+            "relUrl": "/2020/02/20/test-copy.html",
+            "date": " • Feb 20, 2020"
+        }
+        
+    
+  
+    
+        ,"post2": {
             "title": "My Markdown Post",
             "content": "Example Markdown Post . Here are some facts about me . I like driving race cars | I can speak four languages | I love studying, workout and reading | . . Lists . Favorite Foods . BBQ | Pasta | . Favorite Drinks . Redbull | Water |",
             "url": "https://mehdizafferi.github.io/web/markdown/2020/01/14/test-markdown-post.html",
