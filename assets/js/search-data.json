@@ -40,7 +40,7 @@
   
       ,"page1": {
           "title": "About Me ツ",
-          "content": "This website is powered by Proffesor [^1]. . Hey there! I’m senior and I’m so excited to learn Python! .",
+          "content": "title: Links **[Blog]https://mehdizafferi.github.io/web/about/) ** [^2] . This website is powered by Proffesor [^1]. . Hey there! I’m senior and I’m so excited to learn Python! hi .",
           "url": "https://mehdizafferi.github.io/web/about/",
           "relUrl": "/about/",
           "date": ""
