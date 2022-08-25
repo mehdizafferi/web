@@ -3,7 +3,9 @@ layout: page
 title: About Me ツ
 permalink: /about/
 ---
-title: Links
+--
+layout: page
+title: Link
 **[Blog](https://mehdizafferi.github.io/web/about/)** 
 
 This website is powered by **[Proffesor](https://github.com/fastai/fastpages)**
